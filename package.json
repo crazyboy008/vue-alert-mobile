@@ -1,6 +1,6 @@
 {
   "name": "vue-alert-mobile",
-  "version": "1.1.4",
+  "version": "1.1.7",
   "description": "A mobile alert plugin for vue",
   "main": "dist/vue-alert-mobile.js",
   "dependencies": {
@@ -44,9 +44,9 @@
   ],
   "author": "xzp <347096637@qq.com>",
   "license": "ISC",
-  "bugs":{
-    "url":"",
-    "email":""
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/crazyboy008/vue-alert-mobile.git"
   },
-  "homepage": ""
+  "homepage": "https://github.com/crazyboy008"
 }
